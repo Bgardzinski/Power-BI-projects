@@ -1,0 +1,5 @@
+•	Chart population trend year by year with split per urban/rural with filtering on income group
+•	Chart percentage age 00-14 trend year by year with percentage urban year by year
+•	Number 1 and 2 with filter/drill down by Region
+•	Visualize countries with upper middle income with perc increase of urban from 2015 to 2020
+•	Chart bars with perc change (erosion) of rural population
