@@ -1,6 +1,0 @@
-•	What are the population and active mobile terminals growth curves including various cellular technology generations?
-•	What was the global KPI regarding penetration of mobile communications systems that is SIM per capita ratio in 2016?
-•	What is the penetration ratio in various geographical regions?
-•	What is the cumulative yearly ratio of users’ growth in years 2016-2021?
-•	Indicate top 5 countries with the highest income per capita
-•	Show the value map
