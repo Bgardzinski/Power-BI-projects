@@ -1,5 +1,5 @@
 # Power BI projects
-Two Power BI projects that answer particular questions/needs.
+Two Power BI projects: **Populations** and **Cellural Data usage**
 
 1. Populations Project
 
