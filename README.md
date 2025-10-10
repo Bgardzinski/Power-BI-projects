@@ -1,10 +1,25 @@
 # Power BI projects
 Two Power BI projects: **Populations** and **Cellural Data usage**
 
-1. Populations Project
+1. Populations Dashboard
 
-  Project answering particular questions about Population numbers in different Groups/Countries/Years.
-  Data compiled from multiple excel sheets by ETL performed in Power Query.
+  An interactive Power BI dashboard visualizing global population trends, income distribution, and demographic insights across different world regions.
+
+  **Overview**
+
+This project presents an analytical overview of global population data, focusing on:
+
+- Urban vs. rural population distribution
+
+- Age demographics (senior vs. non-senior populations)
+
+- Income group segmentation
+
+- Year-over-year (YoY) population growth
+
+- Regional and country-level growth comparisons
+
+The dashboard provides a clear, dynamic, and data-driven view of how populations evolve over time and differ between regions.
 
 2. Cellural Data Project
 
