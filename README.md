@@ -22,7 +22,8 @@ This project presents an analytical overview of global population data, focusing
 
 The dashboard provides a clear, dynamic, and data-driven view of how populations evolve over time and differ between regions.
 
-<img width="1228" height="690" alt="image" src="https://github.com/user-attachments/assets/cc42a3cb-3721-478c-8cb3-9b9f25ccf259" />
+<img width="1230" height="688" alt="image" src="https://github.com/user-attachments/assets/3871143a-5383-4829-a6e9-71301e889a39" />
+
 
 
 **Key Insights Displayed**
